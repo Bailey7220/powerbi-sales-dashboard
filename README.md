@@ -35,4 +35,4 @@ Synthetic retail-sales data generated for portfolio and learning purposes. It co
 
 ## Files
 - `sales-dashboard.pbix` — the Power BI file
-- `/screenshots` — dashboard page previews
+- `*.png` — dashboard page previews
