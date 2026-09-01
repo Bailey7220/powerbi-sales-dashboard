@@ -4,6 +4,20 @@ Interactive executive dashboard covering revenue, gross margin, orders, return r
 
 **[View the live interactive report](PASTE-LINK)**
 
+## Dashboard views
+
+### Executive summary
+![Executive summary](executive-summary.png)
+
+### Product performance
+![Product performance](product-performance.png)
+
+### Regional performance
+![Regional performance](regional-performance.png)
+
+### Product Detail
+![Product Detail](product-detail.png)
+
 ## What it does
 - Revenue, gross margin, total orders, return rate, and prior-year comparison as DAX measures
 - Variance-to-target reporting against revenue goals
