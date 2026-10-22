@@ -2,7 +2,7 @@
 
 An interactive retail reporting project for exploring sales, profitability, returns, and performance against revenue targets. Built with Power Query, a star-schema data model, and DAX.
 
-[View the interactive report](https://app.powerbi.com/view?r=eyJrIjoiZWNhZmQwMDUtMmVkYy00MjAwLWFjYjYtZWFjZjYzZjZjMTZlIiwidCI6IjBjOTg0ZjRmLWQwN2MtNDA3Zi1hNGQ3LWRiZGE1ZDJjYTMxZiJ9&pageName=49852ab876de720ce76c) | [Download the Power BI file](Sales%20Performance%20Dashboard.pbix)
+[View the interactive report](https://app.powerbi.com/view?r=eyJrIjoiZWNhZmQwMDUtMmVkYy00MjAwLWFjYjYtZWFjZjYzZjZjMTZlIiwidCI6IjBjOTg0ZjRmLWQwN2MtNDA3Zi1hNGQ3LWRiZGE1ZDJjYTMxZiJ9&pageName=49852ab876de720ce76c) | [View or download the Power BI file](Sales%20Performance%20Dashboard.pbix)
 
 > Portfolio project using synthetic retail data. No real employer, company, customer, or transaction data is included. Findings are illustrative, not evidence of real business impact.
 
@@ -64,7 +64,7 @@ The screenshots provide static previews; use the interactive report or the downl
 
 Download `Sales Performance Dashboard.pbix` and open it in Power BI Desktop to inspect the report pages, data model, Power Query transformations, and DAX measures.
 
-The README does not reproduce DAX formulas or a model diagram. The Power BI file is the reference for the implemented calculations and relationships.
+The Power BI file contains the implemented measures, relationships, and report configuration.
 
 ## Dataset and limitations
 
